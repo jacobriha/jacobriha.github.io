@@ -1,0 +1,22 @@
+body {
+	margin: 0 0;
+	text-align: center;
+	color: black;
+
+	font-family: 'Raleway', sans-serif
+}
+h1 {
+	font-size: 50pt;
+	font-color: black;
+	margin-top: 27vh;
+}
+h2 {
+	font-size: 25pt;
+	font-color: ;
+}
+#bulbicon {
+	margin-top: 8vh;
+}
+#social {
+	margin-top: 15vh;
+}
